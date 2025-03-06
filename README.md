@@ -9,8 +9,6 @@ Welcome to my personal portfolio! This single-page website showcases my skills, 
 - **HTML5** 📝
 - **CSS3** 🎨
 - **JavaScript** ⚡
-- **IBM Watson Assistant** 🧠
-- **Stripe Payment Gateway** 💳
 
 ## 📚 **Features** 🌟
 
