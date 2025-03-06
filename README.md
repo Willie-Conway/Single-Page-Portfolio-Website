@@ -9,7 +9,7 @@ Welcome to my personal portfolio! This single-page website showcases my skills, 
 - **JavaScript** ⚡
 - **IBM Watson Assistant** 🧠
 - **Stripe Payment Gateway** 💳
----
+
 ## 📚 **Features** 🌟
 
 - **About Me** 💼  
@@ -23,7 +23,7 @@ Welcome to my personal portfolio! This single-page website showcases my skills, 
 
 - **Recommendations** 🗣️  
   A section where users can submit recommendations and see a list of testimonials from peers.
----
+
 
 ## 🖱️ **How to Run** 🚀
 
@@ -44,7 +44,7 @@ cd portfolio
 3. Choose Open with Live Server (if you are using VS Code).
 4. Try it out in your browser!
    The webpage should now be live on your local server (usually at `http://127.0.0.1:5500/`).
----
+
 ## 📸 Screenshots 🖼️
 
 Here are some screenshots to give you a glimpse of the site:
@@ -58,7 +58,7 @@ Here are some screenshots to give you a glimpse of the site:
 * **Projects Section** - Highlighting some of my important projects.
 
 * **Recommendations Section** - Testimonials and feedback from my peers.
----
+
 
 ## 📝 Contributing 👨‍💻👩‍💻
 Feel free to fork the repo and create pull requests to contribute to this project. You can also open issues for any improvements or bugs you'd like to fix!
@@ -79,13 +79,14 @@ Feel free to fork the repo and create pull requests to contribute to this projec
    git push origin feature-name.
    ```
 5. **Open a pull request.**
----
+
+
 ## 🚀 Future Features 🔮
 
 * 🔄 **Dynamic content updates:** Real-time updates for skills and recommendations.
 * 🖼️ **Project image carousel:** An image slider to showcase multiple images for each project.
 * 🛠️ **Dark Mode:** Allow users to switch between light and dark modes for better accessibility.
----
+
 
 ## 📢 Contact 📬
 You can reach me at:
@@ -93,6 +94,6 @@ You can reach me at:
 **Email:** hire.willie.conway@gmail.com
 
 Feel free to contact me for collaboration, freelance projects, or any queries!
----
+
 
 ### 🙌 Thank you for visiting! 😊
