@@ -2,6 +2,8 @@
 
 Welcome to my personal portfolio! This single-page website showcases my skills, projects, and recommendations in a visually appealing and interactive manner. Feel free to explore!
 
+![Single Page Potfolio Website](https://github.com/Willie-Conway/Single-Page-Portfolio-Website/blob/ea402ca0594e07920e8ba6977d7c5b45b2838a3f/Screenshots/Single_Page_Website.gif)
+
 ## 🔧 **Tech Stack** 🖥️
 
 - **HTML5** 📝
