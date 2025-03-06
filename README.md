@@ -60,7 +60,7 @@ Here are some screenshots to give you a glimpse of the site:
 * **Recommendations Section** - Testimonials and feedback from my peers.
 
 
-## 📝 Contributing 👨‍💻👩‍💻
+## 📝 Contributing 👨🏿‍💻👩🏿‍💻
 Feel free to fork the repo and create pull requests to contribute to this project. You can also open issues for any improvements or bugs you'd like to fix!
 
 **Steps to contribute:**
@@ -96,4 +96,4 @@ You can reach me at:
 Feel free to contact me for collaboration, freelance projects, or any queries!
 
 
-### 🙌 Thank you for visiting! 😊
+### 🙌🏿 Thank you for visiting! 😊
